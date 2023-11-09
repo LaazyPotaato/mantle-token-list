@@ -1,0 +1,65 @@
+{
+  "name": "Mantle List",
+  "timestamp": "2023-09-29T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "mantle",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0x2C6db4f138A1336dB50Ab698cA70Cf99a37e1198",
+      "chainId": 1,
+      "name": "Wrapped MNT",
+      "symbol": "WMNT",
+      "decimals": 18
+    },
+    {
+      "address": "0x2A821F808C27698ec9Be07F584D1e370951fE42a",
+      "chainId": 1,
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18
+    },
+    {
+      "address": "0x6bd338D3e29D58a7Fb91ABa18e64301db4D9dEd0",
+      "chainId": 1,
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18
+    },
+    {
+      "address": "0x07c56055c341236498a070DB9C9a38D63A0Bb7e9",
+      "chainId": 1,
+      "name": "CRUST",
+      "symbol": "CRST",
+      "decimals": 18
+    },
+    {
+      "address": "0x32E510Eab5f3129473A0Eec08ae77dEcfd454Fff",
+      "chainId": 1,
+      "name": "sSUDOKU",
+      "symbol": "sSUDOKU",
+      "decimals": 18
+    },
+    {
+      "address": "0x1F871Af5DF48355611227FFa7532422f28916fFA",
+      "chainId": 1,
+      "name": "uSUDOKU",
+      "symbol": "uSUDOKU",
+      "decimals": 18
+    },
+    {
+      "address": "0x2043a4718ef73773ABa377E493cfdD8a3836e326",
+      "chainId": 1,
+      "name": "SUDOKU",
+      "symbol": "SUDOKU",
+      "decimals": 18
+    }
+  ]
+}
